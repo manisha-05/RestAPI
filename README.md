@@ -1,6 +1,6 @@
 # RestApi
 
-####This project demonstrates a sample restapi with routes for signup, login and image upload.
+###This project demonstrates a sample restapi with routes for signup, login and image upload.
 
 SignUp route - *This route demonstarte a signup route which takes as input  three fields from the user(name, email and password) and reverts back with the encrypted password using the **bcrypt library**.*
 
